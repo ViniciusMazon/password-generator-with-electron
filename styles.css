@@ -1,0 +1,55 @@
+#main {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#main h1 {
+  color: #484848;
+  margin-bottom: 20px;
+}
+
+#main form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#main form label {
+  color: #666;
+  margin-bottom: 10px;
+}
+
+#main form input {
+  width: 300px;
+  height: 60px;
+  border: 1px solid #666;
+  outline: #484848;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  padding: 8px;
+}
+
+#main form button {
+  width: 300px;
+  height: 60px;
+  color: #484848;
+  border-radius: 6px;
+  border: none;
+  background: #ddd;
+  outline: none;
+}
+
+#newPassword {
+  width: 300px;
+  height: 60px;
+  margin-top: 10px;
+  color: #57e1a7;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
