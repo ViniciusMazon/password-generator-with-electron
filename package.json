@@ -1,0 +1,13 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vinicius Mazon <vnpmazon@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^11.2.0"
+  }
+}
